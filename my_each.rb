@@ -8,4 +8,3 @@ def my_each(array) # put argument(s) here
   return array
 end
 
-my_each(array) { |ele| puts ele }
